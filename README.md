@@ -1,13 +1,13 @@
 # Bank_Management_System
 Skills we using.
-Object-Oriented Design
-Data Validation
-Business Logic Implementation
+>Object-Oriented Design
+>Data Validation
+>Business Logic Implementation
 
-KEY FEATURES 
-Account Creation
-Deposit/Withdraw
-Balance Check
+KEY FEATURES :-
+>Account Creation
+>Deposit/Withdraw
+>Balance Check
 
 WORKFLOW
 Step 1: Create Account class (account no, balance).
